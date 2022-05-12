@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Crypto Colosseum: Larva Maiorum',
     tagline: 'The masks of our ancestors breathe.',
-    url: 'larva-docs.cryptocolosseum.com',
+    url: 'https://larvamaiorum-docs.netlify.app',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
