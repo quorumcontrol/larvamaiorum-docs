@@ -58,7 +58,6 @@ const config = {
         ({
         colorMode: {
             defaultMode: 'dark',
-            disableSwitch: true,
         },
         navbar: {
             title: 'Crypto Colosseum: Larva Maiorum',
