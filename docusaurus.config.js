@@ -61,7 +61,7 @@ const config = {
             disableSwitch: true,
         },
         navbar: {
-            title: 'Crytpo Colosseum: Larva Maiorum',
+            title: 'Crypto Colosseum: Larva Maiorum',
             logo: {
                 alt: 'Crypto Colosseum Logo',
                 src: 'img/logo.svg',
@@ -86,19 +86,18 @@ const config = {
                     title: 'Docs',
                     items: [{
                         label: 'Litepaper',
-                        to: '/intro',
+                        to: '/',
                     }, ],
                 },
                 {
                     title: 'Community',
-                    items: [,
-                        {
+                    items: [{
                             label: 'Discord',
                             href: 'https://discord.gg/YrAwv2r5KA',
                         },
                         {
                             label: 'Twitter',
-                            href: 'https://twitter.com/cryptocolosseum',
+                            href: 'https://twitter.com/CryptoColosseum',
                         },
                     ],
                 },
@@ -106,7 +105,7 @@ const config = {
                     title: 'More',
                     items: [{
                         label: 'GitHub',
-                        href: 'https://github.com/facebook/docusaurus',
+                        href: 'https://github.com/quorumcontrol',
                     }, ],
                 },
             ],
